@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "VisualEffects",
+        "repositoryURL": "https://github.com/twostraws/VisualEffects.git",
+        "state": {
+          "branch": null,
+          "revision": "053afdddfe4eefa6ed2f445511d455cfeb546896",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
